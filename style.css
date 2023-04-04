@@ -167,6 +167,7 @@ input[type="password"] {
 
 .cadastre a {
   text-decoration: none;
+  padding: 10px;
   color: white;
 }
 
@@ -221,8 +222,19 @@ input {
 }
 
 .o-que-e-autohelp {
-  border: 1px solid red;
-  width: 1200px;
   letter-spacing: 0.1em;
   line-height: 1.5;
+  text-align: center;
+}
+
+.h1-autohelp {
+  text-align: center;
+}
+
+.criadores {
+  text-align: center;
+}
+
+.criadores h2 {
+  color: red;
 }
