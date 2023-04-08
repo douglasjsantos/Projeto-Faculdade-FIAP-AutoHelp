@@ -238,3 +238,26 @@ input {
 .criadores h2 {
   color: red;
 }
+
+.criadores {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.criadores img {
+  max-width: 200px;
+}
+
+.criadores img:hover {
+  transition: transform 0.2s ease-in-out;
+  transform: scale(1.1);
+}
+
+.grupo-autohelp {
+  text-align: center;
+}
+
+.nome {
+  text-align: center;
+}
