@@ -276,8 +276,29 @@ input {
 }
 
 .comofunciona {
-  width: 900px;
+  display: flex;
   display: flex;
   justify-content: center;
-  align-items: center;
+}
+
+.falar {
+  text-align: center;
+}
+
+.falar-conteudo {
+  width: 1250px;
+  height: 600px;
+}
+
+.container-conteudo {
+  display: flex;
+  justify-content: center;
+}
+
+.comofuncionasub {
+  width: 1250px;
+}
+
+.comofuncionah1 {
+  text-align: center;
 }
