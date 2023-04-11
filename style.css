@@ -261,3 +261,23 @@ input {
 .nome {
   text-align: center;
 }
+
+.linkedin {
+  color: red;
+  text-align: center;
+}
+
+.linkedin-sub {
+  text-decoration: none;
+  display: block;
+  color: black;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.comofunciona {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
